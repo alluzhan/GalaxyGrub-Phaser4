@@ -15,9 +15,9 @@ Jose Baeza
     - [LINK TO PLAY](https://jasongarabedian483.github.io/CMPM-120-Final-Game/)
 
 - [Prototypes]
-    - [Cinematics Prototype](https://jasongarabedian483.github.io/CMPM-120-Final-Game/cinematics-1.html)
-    - [Scene Flow Prototype](https://jasongarabedian483.github.io/CMPM-120-Final-Game/scene-flow-1.html)
-    - [Core Gameplay Prototype](https://jasongarabedian483.github.io/CMPM-120-Final-Game/core-gameplay-1.html)
+    - [Cinematics Prototype](https://alluzhan.github.io/GalaxyGrub-Phaser4/cinematics-1.html)
+    - [Scene Flow Prototype](https://alluzhan.github.io/GalaxyGrub-Phaser4/scene-flow-1.html)
+    - [Core Gameplay Prototype](https://alluzhan.github.io/GalaxyGrub-Phaser4/core-gameplay-1.html)
 
 - [Theme]
     - Galaxy Grub is a futuristic sci-fi based cooking game that takes place on a nearby moon in the far off future
